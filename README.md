@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Twang
 
-You can use the [editor on GitHub](https://github.com/phoenixpinpoint/Twang/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Twang is a project to build a simplified compiled language for robotics programming. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### The goal
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The goal is to create a language that compiles to C. Which then can be compiled to the architecture in which your embeded code will run. This allows us to use pre-existing C compilers that are written for any architecture from x86 to ARM64. Thus the user only has to write in one uniform coding language without having to learn C. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/phoenixpinpoint/Twang/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
