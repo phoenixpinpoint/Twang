@@ -1,7 +1,8 @@
 //parser.c
 typedef struct {
         char* libname;
-        char *tokens[]; 
+        char *tokens[];
+        //char *args[][]; expression of arguments to the statements. 
 } library;
 
 library twanglib;
