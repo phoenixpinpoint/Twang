@@ -5,8 +5,8 @@ Keywords:
          var
 
 Syntax:
-       var <name> | <value>
-       
+       var := var <name> <eos>
+       var := var <name> <value> <eos> 
 
 */
 #include <stdio.h>
