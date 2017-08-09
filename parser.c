@@ -11,5 +11,5 @@ twanglib.tokens = {"out","in", "var", ";"};
 
 library twangmath;
 twangmath.libname = "twangmath";
-twangmath.tokens ={"add", "sub", "mul", "devide"};
+twangmath.tokens ={"add", "sub", "mul", "divide"};
 
